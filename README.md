@@ -1,3 +1,9 @@
+# ⚠️ DEPRECATED - This project is no longer actively developed
+
+**For the latest version, please visit: https://github.com/CryptoGnome/aster_lick_hunter_node**
+
+---
+
 <div align="center">
   <img src="static/logo.svg" alt="Aster Logo" width="300" />
 
